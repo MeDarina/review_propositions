@@ -1,4 +1,6 @@
 This is a manually annotated proposition dataset from sentences taken from restaurant reviews (ABSA 2014; see http://metashare.dfki.de/repository/browse/semeval-2014-absa-restaurant-reviews-train-data/479d18c0625011e38685842b2b6a04d72cb57ba6c07743b9879d1a04e72185b8/)  that distinguishes between clauses that need to be split and those that do not. </br>
+First, we "reduced" the sentences using AMT workers.
+The resulting sentences were then used to manually extract propositions. 
 The herein shown corpus contains the origninal sentence and the extracted propositions.</br>
 We also provide the annotation guidelines.</br>
 The corpus allowed us to independently compare the performance of proposition extraction systems on simple and complex clauses. The analysis can be found in the corresponding paper.</br>
